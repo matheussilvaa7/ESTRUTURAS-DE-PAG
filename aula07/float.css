@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: justify;
+}
+.container{
+    margin: 15px;
+    padding: 15px;
+    border: 2px dotted green;
+    overflow: auto;
+}
+.container img{
+    float: right;
+}
+.div2{
+    border: 2px solid darkblue;
+    /* margin: ; */
+    padding: 10px;
+
+}
+.p1{
+    padding: 5px;
+    color: green;
+    float: right;
+
+
+}
+.p2{
+    padding: 5px;
+    color: blue;
+    clear: left;
+}
+/* display block nao deixa nenhum ficar do lado dele. */
+/* display */

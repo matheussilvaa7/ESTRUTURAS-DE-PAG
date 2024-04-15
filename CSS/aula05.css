@@ -1,0 +1,47 @@
+h2 {
+    padding: 15px 25px;
+    margin-top: 15px;
+}
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 10px 20px 10px;
+    padding: 20px;
+  }
+  .container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    border-width: 3px;
+    border-top-style: dotted;
+    border: 5px solid red;
+    background-color: black;
+  }
+  h1 {
+    border-style: red;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+  }
+  p {
+    margin-top: 0px;
+  } */
+/*
+/*body {
+    background-image: url(../IMG/Carro_-Corinthians.avif);
+    background-attachment:scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+article{
+    height: 100vh;
+
+
+}
+P {
+    text-align: justify;
+    line-height: 200%;
+}
+figure{
+    background-color: aqua;
+    text-align: center;
+}
