@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.root{
+    --COR-PRIMARY:#595959;
+    --COR-SECONDARY:#A6A6A6;
+    --COR-TERTIARY:#D9043D;
+    --FONTE-TAMANHO: 1.5rem;
+}
+body{
+
+}
+H1{
+    color: var(--COR-PRIMARY);
+}
+P{
+    font-size: var(--FONTE-TAMANHO);
+}

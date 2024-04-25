@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: silver;
+}
+nav{
+    background-color: #BF2604;
+    height: 10vh;
+    text-align: center;
+    line-height: 10vh;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    display: inline-block;
+
+}
+nav > a:hover{
+    color: aqua;
+    background-color: white;
+}
+.imput:focus{
+    background-color: silver;
+    color: gold;
+
+}
+a:active{
+    text-decoration: none;
+    color: brown;
+    font-size: 2em;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5em;
+}

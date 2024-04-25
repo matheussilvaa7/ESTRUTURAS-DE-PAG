@@ -1,0 +1,53 @@
+
+.grid-container {
+    display: grid;
+     background-color: white; 
+    height: 100vh;
+    color: white;
+    font-size: 2em;
+    grid-template-columns: repeat(4, 1fr); 
+    grid-template-rows: repeat(4, 1fr); 
+    
+    grid-template-areas:
+    "header header header header"
+    "aside main main main"
+    "Rodolfinho Rodolfinho Rodolfinho cristiano"
+    "Carros Carros Carros Carros"
+    
+  
+
+     ;
+     gap: 5px; ;
+   
+}
+.box1{
+    grid-area: header;
+    background-color: black;
+    
+}
+.box2{
+grid-area: aside;
+background-color: yellow;
+
+}
+    
+.box3{
+grid-area: main;
+background-color: coral;
+
+}
+.box4{
+grid-area: Rodolfinho;
+background-color: aqua;
+
+}
+.box5{
+    grid-area: Carros;
+    background-color: crimson;
+   
+}
+.box6{
+    grid-area: cristiano;
+    background-color: red;
+    
+}
